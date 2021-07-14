@@ -1,0 +1,114 @@
+[2021-05-19 19:03:19,063: INFO/MainProcess] Received task: app.crawl[94a5ea11-3a8b-4e15-8442-ddb2ac16c82e]  
+[2021-05-19 19:03:19,067: INFO/ForkPoolWorker-2] The file name for this run /root/app/DormanProduct/downloads/dorman_output_000006
+[2021-05-19 19:03:19,077: DEBUG/ForkPoolWorker-2] Starting new HTTPS connection (1): free-proxy-list.net:443
+[2021-05-19 19:03:19,150: DEBUG/ForkPoolWorker-2] https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+[2021-05-19 19:03:19,165: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['7M0-407-181-A', '811-407-181-A', '811-407-181-A']
+[2021-05-19 19:03:19,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:03:23,480: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=7m0-407-181-a
+[2021-05-19 19:03:49,176: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:04:19,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:04:19,234: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['811-407-181-A', '90445097', '90445097', '90445097']
+[2021-05-19 19:04:19,247: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:04:20,705: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=811-407-181-a
+[2021-05-19 19:04:20,790: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=90445097
+[2021-05-19 19:04:22,767: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=811-407-181-a
+[2021-05-19 19:04:23,676: INFO/ForkPoolWorker-2] yielded items are...{'partno': '811-407-181-a', 'ProductName': 'BCK44050', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Volkswagen Pointer 2009-98, Volkswagen Pointer Truck 2010-98', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '811407181A811-407-181-A', 'MfrName': 'VOLKSWAGENSYD', 'Oedetails': '811407181A:VOLKSWAGEN'}
+[2021-05-19 19:04:32,916: INFO/ForkPoolWorker-2] yielded items are...{'partno': '90445097', 'ProductName': 'BC22090', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Chevrolet 2020-94', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '90445097', 'MfrName': 'SYD', 'Oedetails': '94737496:GENERAL MOTORS'}
+[2021-05-19 19:04:49,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:04:49,247: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:19,176: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:19,252: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:19,303: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['96FB-3063-AA', '96FB-3063-AA', '96FB-3063-AA']
+[2021-05-19 19:05:19,313: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:23,930: INFO/ForkPoolWorker-2] yielded items are...{'partno': '90445097', 'ProductName': 'BC22090PR', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Chevrolet 2020-94', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '90445097', 'MfrName': 'SYD', 'Oedetails': '94737496:GENERAL MOTORS'}
+[2021-05-19 19:05:49,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:49,247: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:05:49,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:19,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:19,247: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:19,364: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['K-8034', 'K-8237-A', 'K-9202', '1403037']
+[2021-05-19 19:06:19,374: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:23,480: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1403037
+[2021-05-19 19:06:25,631: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=k-9202
+[2021-05-19 19:06:39,787: INFO/ForkPoolWorker-2] yielded items are...{'partno': '811-407-181-a', 'ProductName': 'BCK44050PR', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Volkswagen Pointer 2009-98, Volkswagen Pointer Truck 2010-98', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '811407181A811-407-181-A', 'MfrName': 'VOLKSWAGENSYD', 'Oedetails': '811407181A:VOLKSWAGEN'}
+[2021-05-19 19:06:49,175: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:49,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:49,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:49,375: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:06:54,640: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=k-8034
+[2021-05-19 19:07:19,176: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:19,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:19,375: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:19,403: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['1406016', '1426026', '1407002']
+[2021-05-19 19:07:19,413: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:35,702: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1407002
+[2021-05-19 19:07:36,803: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=k-8237-a
+[2021-05-19 19:07:49,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:49,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:07:49,414: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:19,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:19,413: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:19,467: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['1408127', '1412001', '1407001', '1408128']
+[2021-05-19 19:08:19,477: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:31,374: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1407001
+[2021-05-19 19:08:46,123: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1406016
+[2021-05-19 19:08:49,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:49,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:49,413: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:08:49,478: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:19,248: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:19,414: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:19,478: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:19,538: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['1412002', '1409062', '1409062']
+[2021-05-19 19:09:19,559: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:21,620: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1412002
+[2021-05-19 19:09:24,605: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1409062
+[2021-05-19 19:09:27,711: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1412001
+[2021-05-19 19:09:28,513: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1409062', 'ProductName': 'BC59160', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Acura EL 2005-01, Acura RSX 2006-02, Honda Civic 2005-01, Honda CR-V 2006-02, Honda Element 2011-03', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1409062', 'MfrName': 'SYD', 'Oedetails': '5139156M801:HONDA5139156MJ51:HONDA51392S5A004:HONDA52365S5A024:HONDA52365S5A802:HONDA'}
+[2021-05-19 19:09:29,718: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1408127
+[2021-05-19 19:09:30,946: INFO/ForkPoolWorker-2] yielded items are...{'partno': '811-407-181-a', 'ProductName': 'BCK44050PR', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Volkswagen Pointer 2009-98, Volkswagen Pointer Truck 2010-98', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '811407181A811-407-181-A', 'MfrName': 'VOLKSWAGENSYD', 'Oedetails': '811407181A:VOLKSWAGEN'}
+[2021-05-19 19:09:31,585: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1408128
+[2021-05-19 19:09:49,313: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:49,413: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:49,559: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:09:53,419: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1426026
+[2021-05-19 19:10:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:10:19,560: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:10:19,619: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['1409062', '1402007', '1402007', '1403025']
+[2021-05-19 19:10:19,628: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:10:49,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:10:49,560: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:10:49,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:19,314: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:19,560: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:19,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:19,689: INFO/ForkPoolWorker-2] the set of part codes to be run in iteration...['1403045', '1403061', '1403061', '1403087']
+[2021-05-19 19:11:19,713: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:25,620: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1403025
+[2021-05-19 19:11:34,004: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1409062', 'ProductName': 'BC59160PR', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Acura EL 2005-01, Acura RSX 2006-02, Honda Civic 2005-01, Honda CR-V 2006-02, Honda Element 2011-03', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1409062', 'MfrName': 'SYD', 'Oedetails': '5139156M801:HONDA5139156MJ51:HONDA51392S5A004:HONDA52365S5A024:HONDA52365S5A802:HONDA'}
+[2021-05-19 19:11:38,003: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1403087
+[2021-05-19 19:11:39,720: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1402007
+[2021-05-19 19:11:49,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:49,714: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:11:55,927: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1403061
+[2021-05-19 19:11:58,357: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1403061', 'ProductName': '523-201', 'ProductInfo': 'Suspension Control Arm Bushing', 'ProductSummary': 'Application Summary: Buick 2017-08, Chevrolet 2017-09, GMC 2017-07, Saturn 2010-07', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1403061', 'MfrName': 'SYD', 'Oedetails': '25798014:GENERAL MOTORS25798013:GENERAL MOTORS'}
+[2021-05-19 19:12:19,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:12:19,713: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:12:19,749: INFO/ForkPoolWorker-2] Task app.crawl[94a5ea11-3a8b-4e15-8442-ddb2ac16c82e] succeeded in 540.6843215189874s: None
+[2021-05-19 19:12:48,043: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1402007', 'ProductName': '674-873', 'ProductInfo': 'Manifold Converter - Not CARB Compliant', 'ProductSummary': 'Application Summary: Lexus ES300 2003-02, Toyota Camry 2006-02', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1714020070', 'MfrName': 'TOYOTA', 'Oedetails': '1714020070:TOYOTA1714020080:TOYOTA1714020100:TOYOTA'}
+[2021-05-19 19:12:49,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:12:49,713: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:13:19,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:13:19,713: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:13:20,614: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1409062
+[2021-05-19 19:13:35,149: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1409062', 'ProductName': 'BC59160PR', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Acura EL 2005-01, Acura RSX 2006-02, Honda Civic 2005-01, Honda CR-V 2006-02, Honda Element 2011-03', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1409062', 'MfrName': 'SYD', 'Oedetails': '5139156M801:HONDA5139156MJ51:HONDA51392S5A004:HONDA52365S5A024:HONDA52365S5A802:HONDA'}
+[2021-05-19 19:13:49,629: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:13:49,714: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:14:19,628: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:14:19,714: INFO/ForkPoolWorker-2] Proxies(good: 0, dead: 0, unchecked: 52, reanimated: 0, mean backoff time: 0s)
+[2021-05-19 19:14:21,887: INFO/ForkPoolWorker-2] yielded items are...{'partno': '1409062', 'ProductName': 'BC59160', 'ProductInfo': 'Support Bushing', 'ProductSummary': 'Application Summary: Acura EL 2005-01, Acura RSX 2006-02, Honda Civic 2005-01, Honda CR-V 2006-02, Honda Element 2011-03', 'Cross': 'DIRECT INTERCHANGE CROSS', 'OEref': '1409062', 'MfrName': 'SYD', 'Oedetails': '5139156M801:HONDA5139156MJ51:HONDA51392S5A004:HONDA52365S5A024:HONDA52365S5A802:HONDA'}
+[2021-05-19 19:14:21,933: INFO/ForkPoolWorker-2] Parsing listings...https://www.dormanproducts.com/gsearch.aspx?type=oesearch&origin=oesearch&q=1403045

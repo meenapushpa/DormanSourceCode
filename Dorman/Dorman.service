@@ -1,0 +1,14 @@
+[Unit]
+Description=Dorman Scrapy Service
+After=multi-user.target
+
+[Service]
+ExecStart=/bin/bash /root/Dorman/runserver.sh
+Restart=on-failure
+KillSignal=SIGQUIT
+Type=simple
+NotifyAccess=all
+
+[Install]
+WantedBy=multi-user.target
+

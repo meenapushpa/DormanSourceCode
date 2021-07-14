@@ -1,0 +1,16 @@
+[Unit]
+Description=Celery Service
+After=multi-user.target
+
+[Service]
+ExecStart=/bin/bash /root/Dorman/celery.sh
+Restart=on-failure
+KillSignal=SIGQUIT
+Type=simple
+NotifyAccess=all
+#StandardOutput=file:/root/Dorman/scrapyoutput.log
+#StandardError=file:/root/Dorman/scrapyerr.log
+
+[Install]
+WantedBy=multi-user.target
+
